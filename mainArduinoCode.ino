@@ -44,7 +44,7 @@ floatlat;
 
 floatlng;
 
-42
+
 };
 
 
@@ -97,7 +97,7 @@ Serial1.print("AT+CMGF=1\r");	//Because we want to send the SMS in text mode
 
 
 
-43
+
 delay(1000);
 
 
@@ -145,7 +145,7 @@ Vertex(-1.10012052, 37.01490885)});
 
 
 
-44
+
 
 
 
@@ -200,7 +200,7 @@ Vertex(-1.10529086, 37.01714045)});
 
 
 
-45
+
 speedZones[3] = &SpeedZone(30);
 
 speedZones[3]->setVertices(6, (Vertex[6]){
@@ -243,7 +243,6 @@ Vertex(-1.09623739, 37.01454407)});
 
 
 
-// Thikard1
 
 speedZones[5] = &SpeedZone(60);
 
@@ -255,7 +254,7 @@ Vertex(-1.10595958, 37.01598007),
 
 
 
-46
+
 Vertex(-1.10184047, 37.02031452),
 
 Vertex(-1.09733519, 37.02522832),
@@ -286,9 +285,6 @@ Vertex(-1.09403131, 37.03063566),
 Vertex(-1.09557598, 37.02861864)});
 
 
-
-// Thikard3
-
 speedZones[7] = &SpeedZone(70);
 
 speedZones[7]->setVertices(7, (Vertex[7]){
@@ -303,7 +299,7 @@ Vertex(-1.06827596, 37.05011922),
 
 
 
-47
+
 Vertex(-1.06870504, 37.05093462),
 
 Vertex(-1.07896001, 37.04466898),
