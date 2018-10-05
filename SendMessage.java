@@ -1,7 +1,7 @@
 // application shows you the basic procedure for sending messages.
 package examples;
 
-
+//Import Statements
 
 importorg.smslib.AGateway;
 
