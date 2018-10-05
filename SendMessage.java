@@ -14,7 +14,7 @@ importorg.smslib.OutboundMessage;
 importorg.smslib.Service;
 
 importorg.smslib.modem.SerialModemGateway;
-
+//import statements ends
 
 
 public class SendMessage
